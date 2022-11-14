@@ -1,1 +1,1 @@
-Get-DbaDatabase
+Get-DbaDatabase -sqlinstance localhost
