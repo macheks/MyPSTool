@@ -1,1 +1,1 @@
-get-process | select Name
+get-process | select Name -first 10
