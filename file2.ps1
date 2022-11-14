@@ -1,1 +1,1 @@
-get-process | select Name -first 10
+get-process | where-object Name -eq Bits | select Name -first 10
