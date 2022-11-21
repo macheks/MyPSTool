@@ -1,1 +1,1 @@
-Get-DbaDatabase -sqlinstance localhost
+Get-DbaDatabase -sqlinstance localhost -RecoveryModel Simple
